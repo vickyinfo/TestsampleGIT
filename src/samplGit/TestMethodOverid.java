@@ -7,6 +7,13 @@ public class TestMethodOverid {
 		  b.stop();
 		  b.refule();
 		  b.theftsafty();
+		   Car c = new Bmw();
+		   c.start();
+		   c.refule();
+		   c.stop();
+		   
+		   
+		   
 		  
 		
 	}
